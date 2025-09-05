@@ -40,5 +40,4 @@ public class TestCase extends BaseTest {
         filterPage.checkPositionsOnPage("Quality Assurance", "QA", "Quality Assurance", "Istanbul, Turkey");
         filterPage.verifyApplyNowButtonNavigation();
     }
-
 }
